@@ -19,8 +19,7 @@
   * **pandas_base** Alexandre/Valentin 45min
   * **pandas_exo** Alexandre/Valentin 1h
 
-  * **seaborn_base** Alexandre/Valentin 20min
-   * **pigouin** valentin
+  * **seaborn_base + pingouin** Alexandre/Valentin 20min
   * **neo** Sam 15min
   * **ephyviewer** Sam 15min
   * **Exo avec EEG** Jules 1h00
