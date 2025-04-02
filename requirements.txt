@@ -20,3 +20,5 @@ neo
 mne
 pingouin
 statsmodels
+networkx
+torch
