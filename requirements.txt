@@ -14,7 +14,7 @@ openpyxl
 jupyterlab
 ipympl
 plotly
-pytables
+tables
 ephyviewer
 neo
 mne
