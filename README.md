@@ -16,7 +16,7 @@ Ce repo contient le materiel de la formation analyse de donnée en python du CRN
 2. Exit the terminal and open it again.
 3. Download with right click and save this file corresponding in "Documents" folder:
     * [`requirements.txt`](https://raw.githubusercontent.com/crnl-lab/Formation_2025_Python_data_analyse/main/requirements.txt)
-4. open terminal or powershell
+4. open terminal or **CMD**
 5. `uv venv env_formation --python 3.12`
 6. For Mac/Linux `source env_formation/bin/activate` (you should have `(env_formation)` in your terminal) or for Powershell `env_formation\Scripts\activate`
 7. `uv pip install -r Documents/requirements.txt`
