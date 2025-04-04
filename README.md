@@ -6,7 +6,7 @@ Ce repo contient le materiel de la formation analyse de donnée en python du CRN
 
 
 
-## procédure d'installation avec le 'outils **uv**
+## procédure d'installation avec l'outils **uv**
 
 
 1. On macOS and Linux. Open a terminal and do
