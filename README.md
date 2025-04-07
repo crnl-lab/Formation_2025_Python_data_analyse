@@ -39,29 +39,48 @@ Ce repo contient le materiel de la formation analyse de donnée en python du CRN
 
 **10 avril 2025**
 
+  * 9h30
   * **scipy_overview.ipynb** Alexandre 30min
   * **file_manipulation** Alexandre 45min
+  * 10h45
+  * pause
+  * 11h
   * **pandas_base** Alexandre/Valentin 45min
   * **pandas_exo** Alexandre/Valentin 1h
-
+  * 12h45
+  * pause déjeuner
+  * 13h45
   * **seaborn_base + pingouin** Alexandre/Valentin 20min
   * **neo** Sam 15min
   * **ephyviewer** Sam 15min
+  * 14h45
+  * pause
+  * 15h
   * **Exo avec EEG** Jules 1h00
   * **MNE overview** Jules 1h00
+  * 17h
 
 
 **11 avril 2025**
   
+   * 9h30
    * **sklearn** Jules 30min
    * **skimage** Sam 10min
    * **networkx** Jules 15min 
    * **plotly** Sam 10min
+   * 10h45
+   * pause
+   * 11h
    * **Formula_statsmodels** Jules 15min
    * **xarray** Valentin 20min
-   * **physio** sam 12min
    * **torch** Sam 20min
+   * 12h
+   * pause déjeuner
+   * 13h
+   * formation cluster
 
+   
+   torch
 
 Horaires:
  * 9h30 - 10h45
