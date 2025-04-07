@@ -14,11 +14,13 @@ openpyxl
 jupyterlab
 ipympl
 plotly
-pytables
+tables
 ephyviewer
 neo
 mne
 pingouin
 statsmodels
 networkx
-torch
+dash
+scikit-image
+zarr
