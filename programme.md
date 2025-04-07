@@ -32,12 +32,11 @@
    * **skimage** Sam 10min
    * **networkx** Jules 15min 
    * **plotly** Sam 10min
-   * **Formula_statsmodels** Jules 15min
-   * **xarray** Valentin 20min
-   * **torch** Sam 20min
+   * **Formula_statsmodels** Jules 30min
+   * **xarray** Valentin 30min
+   * **torch** Sam 30min
 
-   
-   torch
+
 
 Horaires:
  * 9h30 - 10h45
