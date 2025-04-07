@@ -21,3 +21,6 @@ mne
 pingouin
 statsmodels
 networkx
+dash
+scikit-image
+zarr
