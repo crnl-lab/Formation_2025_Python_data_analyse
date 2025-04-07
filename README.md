@@ -56,8 +56,8 @@ Ce repo contient le materiel de la formation analyse de donnée en python du CRN
   * 14h45
   * pause
   * 15h
-  * **Exo avec EEG** Jules 1h00
   * **MNE overview** Jules 1h00
+  * **Exo avec EEG** Jules 1h00
   * 17h
 
 
