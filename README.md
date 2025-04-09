@@ -59,10 +59,9 @@ Ce repo contient le materiel de la formation analyse de donnée en python du CRN
    * **plotly** Sam 10min
    * **Formula_statsmodels** Jules 15min
    * **xarray** Valentin 20min
+   * **physio** sam 12min
    * **torch** Sam 20min
 
-   
-   torch
 
 Horaires:
  * 9h30 - 10h45
